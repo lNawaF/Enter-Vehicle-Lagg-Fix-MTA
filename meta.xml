@@ -1,0 +1,4 @@
+<meta>
+	<info author="iNawaF" version="1.0" name="" description="radio type="script" />
+<script src="Client.lua" type="client" cache="false" />
+</meta>
