@@ -1,4 +1,3 @@
--- Enter vehicle lagg fix --
 setRadioChannel(0)
 function OCPVE()
 	if not radio then
